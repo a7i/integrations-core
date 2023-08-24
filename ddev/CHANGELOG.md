@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+***Fixed***:
+
+* Bump datadog check dev version to ~=24.0 ([#15683](https://github.com/DataDog/integrations-core/pull/15683))
+
 ## 4.0.0 / 2023-08-18
 
 ***Added***:
